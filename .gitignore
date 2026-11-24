@@ -1,0 +1,5 @@
+.claude/
+python/build/
+__pycache__/
+*.pyc
+records.json
